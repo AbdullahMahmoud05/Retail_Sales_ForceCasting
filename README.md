@@ -1,4 +1,4 @@
-# Retail Sales Forecasting System
+# Retail Sales Prediction System
 
 Machine Learning web application for predicting retail sales using Linear Regression and Streamlit.
 
